@@ -32,7 +32,10 @@ export default function Mission() {
 
             {/* Hero Section */}
             <section className="relative w-full pt-48 pb-24 overflow-hidden px-6 md:px-12 border-b border-titanium/10">
-                <div className="absolute inset-0 bg-[url('https://images.unsplash.com/photo-1579970929940-bf7fcc2e1e07?q=80&w=2600&auto=format&fit=crop')] bg-cover bg-center opacity-[0.15] mix-blend-luminosity grayscale scale-105"></div>
+                <div
+                    className="absolute inset-0 bg-cover bg-center opacity-[0.15] mix-blend-luminosity grayscale scale-105"
+                    style={{ backgroundImage: `url('https://images.unsplash.com/photo-1579970929940-bf7fcc2e1e07?q=80&w=2600&auto=format&fit=crop')` }}
+                ></div>
                 <div className="absolute inset-0 bg-gradient-to-t from-obsidian via-obsidian/80 to-transparent"></div>
 
                 <div className="max-w-[1400px] mx-auto relative z-10 flex flex-col md:flex-row gap-12 justify-between items-end">
