@@ -18,7 +18,7 @@ export default function Footer() {
                             </span>
                         </div>
                         <p className="font-mono text-titanium-muted text-xs leading-relaxed max-w-sm uppercase tracking-widest">
-                            The Department of Defense's Primary Problem-Solving Weapon.
+                            Building the Department of War's Primary Problem-Solving Weapon.
                         </p>
                     </div>
 
