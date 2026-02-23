@@ -36,7 +36,7 @@ export default function EngineeredCapabilities() {
             {/* Deep Industrial Background */}
             <div
                 className="absolute inset-0 bg-cover bg-center bg-no-repeat opacity-[0.05] mix-blend-luminosity grayscale"
-                style={{ backgroundImage: 'url("https://images.unsplash.com/photo-1518331707767-17edb856f6ed?q=80&w=2600&auto=format&fit=crop")' }}
+                style={{ backgroundImage: 'url("/capabilities_bg.png")' }}
             ></div>
 
             {/* Schematic Grid Background Overlay */}

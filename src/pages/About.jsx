@@ -35,7 +35,7 @@ export default function About() {
             <section className="relative w-full pt-48 pb-24 overflow-hidden px-6 md:px-12 border-b border-titanium/10">
                 <div
                     className="absolute inset-0 bg-cover bg-center opacity-[0.15] mix-blend-luminosity grayscale"
-                    style={{ backgroundImage: `url('https://images.unsplash.com/photo-1541888049387-195fd0bd48b4?q=80&w=2600&auto=format&fit=crop')` }}
+                    style={{ backgroundImage: `url('/about_bg.png')` }}
                 ></div>
                 <div className="absolute inset-0 bg-gradient-to-t from-obsidian via-obsidian/80 to-transparent"></div>
 

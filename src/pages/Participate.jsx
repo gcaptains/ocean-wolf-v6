@@ -52,7 +52,7 @@ export default function Participate() {
             <section className="relative w-full pt-48 pb-24 overflow-hidden px-6 md:px-12 border-b border-titanium/10">
                 <div
                     className="absolute inset-0 bg-cover bg-center opacity-[0.10] mix-blend-luminosity grayscale shadow-[inset_0_0_100px_rgba(0,0,0,1)]"
-                    style={{ backgroundImage: `url('https://images.unsplash.com/photo-1542157585-ef20bbcce178?q=80&w=2600&auto=format&fit=crop')` }}
+                    style={{ backgroundImage: `url('/participate_bg.png')` }}
                 ></div>
                 <div className="absolute inset-0 bg-gradient-to-t from-obsidian via-obsidian/80 to-transparent"></div>
 

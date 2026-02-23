@@ -50,7 +50,7 @@ export default function CinematicHero() {
                 ref={bgRef}
                 className="hero-bg absolute inset-[-5%] bg-cover bg-center bg-no-repeat opacity-40 mix-blend-luminosity grayscale transition-transform duration-100 ease-out"
                 style={{
-                    backgroundImage: 'url("https://images.unsplash.com/photo-1588667612117-0b1cc4ccf7cb?q=80&w=2600&auto=format&fit=crop")',
+                    backgroundImage: 'url("/hero_bg.png")',
                     transform: `translate3d(${mousePos.x * -20}px, ${mousePos.y * -20}px, 0) scale(1.05)` // Parallax offset
                 }}
             ></div>

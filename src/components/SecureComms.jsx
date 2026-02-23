@@ -6,7 +6,7 @@ export default function SecureComms() {
             {/* Deep Military Logistics Background */}
             <div
                 className="absolute inset-0 bg-cover bg-center bg-no-repeat opacity-[0.08] mix-blend-luminosity grayscale"
-                style={{ backgroundImage: 'url("https://images.unsplash.com/photo-1516998471356-b72810b28b9d?q=80&w=2600&auto=format&fit=crop")' }}
+                style={{ backgroundImage: 'url("/secure_comms_bg.png")' }}
             ></div>
 
             {/* Subtle glow background */}
